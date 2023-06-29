@@ -20,3 +20,7 @@ https://github.com/lkwq007/stablediffusion-infinity/blob/master/docs/setup_guide
 stablediffusion-infinity/docs/setup_guide.md
 
 If you use AMD GPUs, you need to install the ONNX runtime pip install onnxruntime-directml (only works with the stablediffusion-inpainting model, untested on AMD devices).
+
+
+资源：
+模型下载站：https://civitai.com/
